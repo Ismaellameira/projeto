@@ -1,4 +1,4 @@
-# Projeto feito durante o bootcampe da Dio.me.
+# Projeto feito durante o bootcamp da Dio.me.
 
 _Era para ser um clone do stagram, mas optei por fazer esta landingpage simples._<br>
 _Ela composta por 3 paginas:_
